@@ -1,0 +1,5 @@
+Public speaking is very easy.
+1 2 4 8 16 32
+0 v 764
+0 11
+5 115
